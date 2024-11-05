@@ -26,8 +26,8 @@
 #import <UIKit/UIKit.h>
 #endif
 
-FOUNDATION_EXPORT double UITextView_PlaceholderVersionNumber;
-FOUNDATION_EXPORT const unsigned char UITextView_PlaceholderVersionString[];
+FOUNDATION_EXPORT double UITextViewPlaceholderVersionNumber;
+FOUNDATION_EXPORT const unsigned char UITextViewPlaceholderVersionString[];
 
 @interface UITextView (Placeholder)
 

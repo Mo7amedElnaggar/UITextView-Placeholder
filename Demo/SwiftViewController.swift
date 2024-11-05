@@ -1,6 +1,6 @@
 //
 //  SwiftViewController.swift
-//  UITextView+Placeholder
+//  UITextViewPlaceholder
 //
 //  Created by Yoshiyuki Kawashima on 2017/05/15.
 //  Copyright © 2017年 Suyeol Jeon. All rights reserved.

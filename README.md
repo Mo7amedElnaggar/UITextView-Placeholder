@@ -31,7 +31,7 @@ Usage
 - **Import Static Library**:
 
     ```objc
-    #import <UITextView+Placeholder/UITextView+Placeholder.h>
+    #import <UITextViewPlaceholder/UITextViewPlaceholder.h>
     ```
 
 Then create `UITextView` and set `placeholder`.
@@ -60,4 +60,4 @@ Congratulations! You're done. 🎉
 License
 -------
 
-UITextView+Placeholder is under MIT license. See the [LICENSE](LICENSE) file for more information.
+  UITextViewPlaceholder is under MIT license. See the [LICENSE](LICENSE) file for more information.

@@ -1,4 +1,4 @@
-UITextView+Placeholder
+UITextViewPlaceholder
 ======================
 
 [![Build Status](https://travis-ci.org/devxoul/UITextView-Placeholder.svg?branch=master)](https://travis-ci.org/devxoul/UITextView-Placeholder)
